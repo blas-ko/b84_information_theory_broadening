@@ -1,0 +1,1 @@
+B. F. Maier and D. Brockmann, "Cover time for random walks on arbitrary complex networks." Phys. Rev. E 96, 042307 (2017), https://arxiv.org/abs/1706.02356
